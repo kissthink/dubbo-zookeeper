@@ -1,2 +1,3 @@
 # dubbo-zookeeper
-docker
+
+zookeeper for dubbo register center
